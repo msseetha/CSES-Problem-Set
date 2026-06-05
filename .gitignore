@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore object files anywhere in the repo
+*.o
+*.obj
+
+# Ignore executables in the root folder
+# (Matches files in the root that do not have an extension)
+/*
+!/*/
+!*.*
