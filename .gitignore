@@ -1,5 +1,6 @@
 # Ignore macOS system files
 .DS_Store
+**/.DS_Store
 
 # Ignore object files anywhere in the repo
 *.o
